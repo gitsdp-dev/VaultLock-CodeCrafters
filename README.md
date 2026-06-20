@@ -156,8 +156,7 @@ Official application downloads are available from the Releases section.
 
 - 📱 Android APK
 
-  -> [⬇️ Download VaultLock APK]
-    ([https://github.com/gitsdp-dev/VaultLock-CodeCrafters/releases/download/v1.0.0/VaultLock.v1.0.0.apk])
+  --> Go to Releases Section and Download the Latest Version for the Best Performance experience. 
 - 🖥️ Windows (.exe)
 - 💻 Future Desktop Releases
 

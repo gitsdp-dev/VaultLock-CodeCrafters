@@ -148,6 +148,22 @@ Your support motivates us to continue building privacy-focused, productivity-foc
 </div>
 
 ---
+## 📥 Downloads
+
+Official application downloads are available from the Releases section.
+
+### Available Platforms
+
+- 📱 Android APK
+
+  -> [⬇️ Download VaultLock APK]
+    ([https://github.com/gitsdp-dev/VaultLock-CodeCrafters/releases/download/v1.0.0/VaultLock.v1.0.0.apk])
+- 🖥️ Windows (.exe)
+- 💻 Future Desktop Releases
+
+➡️ Download the latest version from the Releases page.
+
+---
 
 <div align="center">
 
